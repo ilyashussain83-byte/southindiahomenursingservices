@@ -1,0 +1,52 @@
+{
+  "brand": "South India Home Nursing Services",
+  "legal_entity": "South India Health Care Pvt Ltd",
+  "pages": [
+    {
+      "title": "Home",
+      "file": "index.html",
+      "wordpress_slug": "home"
+    },
+    {
+      "title": "Services",
+      "file": "services.html",
+      "wordpress_slug": "services"
+    },
+    {
+      "title": "Air Ambulance",
+      "file": "air-ambulance.html",
+      "wordpress_slug": "air-ambulance"
+    },
+    {
+      "title": "About Us",
+      "file": "about.html",
+      "wordpress_slug": "about-us"
+    },
+    {
+      "title": "Contact",
+      "file": "contact.html",
+      "wordpress_slug": "contact"
+    }
+  ],
+  "assets": [
+    {
+      "file": "assets/south-india-healthcare-logo.png",
+      "usage": "Header logo / footer logo"
+    },
+    {
+      "file": "assets/air-ambulance-airport.jpg",
+      "usage": "Homepage hero / air ambulance page"
+    }
+  ],
+  "theme_colors": {
+    "navy": "#102b46",
+    "blue": "#135c8e",
+    "teal": "#16a6a1",
+    "gold": "#d5ad4a",
+    "paper": "#f5f8fb"
+  },
+  "contact_numbers": [
+    "+91 7702-220655",
+    "+91 7780-144229"
+  ]
+}

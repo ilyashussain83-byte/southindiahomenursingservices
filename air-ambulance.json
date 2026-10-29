@@ -1,0 +1,183 @@
+{
+  "content": [
+    {
+      "id": "airhero",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "background_background": "classic",
+        "background_color": "#102B46",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "26",
+          "bottom": "60",
+          "left": "26",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "a001",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Air Ambulance Pan India",
+            "header_size": "h1"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "a002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Aircraft ambulance, helicopter ambulance and train ambulance services. Available 24×7, 365 days for enquiries. Transfer feasibility and timing depend on medical assessment and operational availability."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "a003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Request an Air Ambulance Enquiry",
+            "link": {
+              "url": "contact?service=air-ambulance",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "airtypes",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "a004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Our Medical Transport Options",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "a005",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Aircraft Ambulance<br>For eligible long-distance transfers, subject to medical and operational assessment.<br><br>Helicopter Ambulance<br>Transfer enquiries where suitable landing access and conditions are available.<br><br>Train Ambulance Services<br>Medical escort and train-based transfer enquiries, subject to route and patient needs."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    },
+    {
+      "id": "aircontact",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "a006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Air Ambulance Customer Care",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "a007",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "+91 7702-220655<br>+91 7780-144229<br><br>Call to discuss route, patient condition, medical team, availability and next steps."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "a008",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Contact Us",
+            "link": {
+              "url": "contact",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - Air Ambulance",
+  "type": "page",
+  "metadata": {
+    "template_type": "page"
+  }
+}

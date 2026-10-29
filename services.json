@@ -1,0 +1,186 @@
+{
+  "content": [
+    {
+      "id": "serviceshero",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "s001",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Our Healthcare Services",
+            "header_size": "h1"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "s002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Explore home nursing, bedside care, rehabilitation, home diagnostics, medical equipment rental enquiries and ambulance coordination."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "s003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Ask About Availability",
+            "link": {
+              "url": "contact",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "serviceslist",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "s004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Home Care & Healthcare Support",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "s005",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "ICU Nurses — Skilled nursing support at home.<br><br>Male & Female Caretakers — Bedside attendants and personal care assistance.<br><br>Newborn & Baby Care — Newborn support for families.<br><br>Dialysis at Home — Enquire about clinical suitability and service availability.<br><br>Physiotherapy — Rehabilitation and guided exercise support.<br><br>X-Ray at Home and ECG at Home — Home diagnostic visits where available.<br><br>Speech Therapist and Respiratory Therapist — Therapy support according to patient needs.<br><br>Oxygen Cylinders / Concentrators on Rent — Availability and safe-use guidance.<br><br>Hospital Beds, Monitors, ICU Equipment and Ventilators on Rent — Ask about equipment availability and requirements.<br><br>Diagnostic Services — Selected diagnostic services at home, subject to location.<br><br>Air Ambulance Services — Aircraft, helicopter and train ambulance enquiries.<br><br>Dentist / Dental Unit at Home — Ask about home dental service availability."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    },
+    {
+      "id": "servicescta",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "s006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Need help choosing a service?",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "s007",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Tell us about the patient's needs and location so our team can guide your enquiry."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "s008",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Contact Customer Care",
+            "link": {
+              "url": "contact",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - Services",
+  "type": "page",
+  "metadata": {
+    "template_type": "page"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "content": [
+    {
+      "id": "aboutintro",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b001",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "South India Health Care Pvt Ltd",
+            "header_size": "h1"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "b002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "HOME NURSING SERVICES | REHABILITATION CENTER | HOSPITALS"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    },
+    {
+      "id": "aboutbody",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "India's trusted name for all-in-one nursing services",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "b004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Our service offering brings together home nursing, bedside attendants, newborn care, rehabilitation support, selected diagnostic services, medical equipment rental enquiries and medical transport coordination. We aim to help families understand available care options and contact the right team for their needs."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "b005",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Head Office & Branches",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "b006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Head Office: Hyderabad, Telangana, India<br>Branches: New Delhi, India • Ludhiana, Punjab, India • Dubai, UAE"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "b007",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Contact Customer Care",
+            "link": {
+              "url": "contact",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - About Us",
+  "type": "page",
+  "metadata": {
+    "template_type": "page"
+  }
+}

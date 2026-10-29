@@ -1,0 +1,130 @@
+{
+  "business_name": "South India Home Nursing Services",
+  "legal_name": "South India Health Care Pvt Ltd",
+  "tagline": "India's trusted name for all-in-one nursing services.",
+  "subheadline": "24×7 nursing care at the comfort of your home.",
+  "head_office": "Hyderabad, Telangana, India",
+  "offices": [
+    "Hyderabad, Telangana, India",
+    "New Delhi, India",
+    "Ludhiana, Punjab, India",
+    "Dubai, UAE"
+  ],
+  "phones": [
+    "+91 7702-220655",
+    "+91 7780-144229"
+  ],
+  "air_ambulance": {
+    "title": "Air Ambulance Pan India",
+    "services": [
+      "Aircraft Ambulance",
+      "Helicopter Ambulance",
+      "Train Ambulance Services"
+    ],
+    "availability": "Available 24×7, 365 days"
+  },
+  "services": [
+    {
+      "title": "ICU Nurses at Home",
+      "slug": "icu-nursing",
+      "description": "Experienced nursing support for patients who need close monitoring and skilled care at home.",
+      "icon": "✚"
+    },
+    {
+      "title": "Male & Female Caretakers",
+      "slug": "caretakers",
+      "description": "Bedside attendants and personal care assistance for daily comfort, dignity and safety.",
+      "icon": "♡"
+    },
+    {
+      "title": "Newborn & Baby Care",
+      "slug": "newborn-baby-care",
+      "description": "Support for newborn care and family routines from trained caregivers.",
+      "icon": "☼"
+    },
+    {
+      "title": "Dialysis at Home",
+      "slug": "dialysis-at-home",
+      "description": "Ask our care team about home dialysis service availability and clinical suitability.",
+      "icon": "＋"
+    },
+    {
+      "title": "Physiotherapy",
+      "slug": "physiotherapy",
+      "description": "Rehabilitation support and guided exercises to help improve mobility and function.",
+      "icon": "↗"
+    },
+    {
+      "title": "X-Ray at Home",
+      "slug": "xray-at-home",
+      "description": "Convenient home diagnostic visits, subject to service-area availability.",
+      "icon": "▣"
+    },
+    {
+      "title": "ECG at Home",
+      "slug": "ecg-at-home",
+      "description": "Electrocardiogram testing arranged at home where available.",
+      "icon": "⌁"
+    },
+    {
+      "title": "Speech Therapist",
+      "slug": "speech-therapy",
+      "description": "Speech and communication therapy support for eligible patients.",
+      "icon": "◖"
+    },
+    {
+      "title": "Respiratory Therapist",
+      "slug": "respiratory-therapy",
+      "description": "Respiratory care support coordinated according to patient needs.",
+      "icon": "≈"
+    },
+    {
+      "title": "Oxygen Cylinders on Rent",
+      "slug": "oxygen-cylinder-rental",
+      "description": "Rental enquiries for oxygen cylinders, with safe-use guidance and availability checks.",
+      "icon": "◉"
+    },
+    {
+      "title": "Oxygen Concentrators on Rent",
+      "slug": "oxygen-concentrator-rental",
+      "description": "Oxygen concentrator rental enquiries with delivery and setup subject to location.",
+      "icon": "◉"
+    },
+    {
+      "title": "Hospital Beds & Monitors on Rent",
+      "slug": "hospital-bed-monitor-rental",
+      "description": "Home-care equipment rental enquiries for hospital beds and patient monitors.",
+      "icon": "▤"
+    },
+    {
+      "title": "ICU Equipment on Rent",
+      "slug": "icu-equipment-rental",
+      "description": "Ask about equipment availability, installation and patient-care requirements.",
+      "icon": "⚕"
+    },
+    {
+      "title": "Ventilators on Rent",
+      "slug": "ventilator-rental",
+      "description": "Ventilator rental enquiries assessed with clinical and technical requirements.",
+      "icon": "⌁"
+    },
+    {
+      "title": "Diagnostic Services",
+      "slug": "diagnostic-services",
+      "description": "Coordinate selected diagnostic services at home, subject to location and availability.",
+      "icon": "⌕"
+    },
+    {
+      "title": "Air Ambulance Services",
+      "slug": "air-ambulance",
+      "description": "Pan-India air ambulance coordination by aircraft, helicopter and train ambulance services.",
+      "icon": "✈"
+    },
+    {
+      "title": "Dentist & Dental Unit at Home",
+      "slug": "dental-care-at-home",
+      "description": "Ask about home dental consultations and mobile dental service availability.",
+      "icon": "✦"
+    }
+  ]
+}

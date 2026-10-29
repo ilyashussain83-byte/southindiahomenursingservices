@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "id": "contacthero",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "c001",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Contact Customer Care",
+            "header_size": "h1"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "c002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Tell us which service you are enquiring about and where care is needed. Our team can help you understand next steps and availability."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    },
+    {
+      "id": "contactdetails",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "c003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Customer Care Numbers",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "c004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Phone: +91 7702-220655<br>Phone: +91 7780-144229<br><br>Head Office: Hyderabad, Telangana, India<br>Branches: New Delhi • Ludhiana, Punjab • Dubai, UAE"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "c005",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "For medical emergencies, contact local emergency services immediately. Website enquiries are not an emergency response channel."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "c006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Call Customer Care",
+            "link": {
+              "url": "+917702220655",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - Contact",
+  "type": "page",
+  "metadata": {
+    "template_type": "page"
+  }
+}

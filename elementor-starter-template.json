@@ -1,0 +1,234 @@
+{
+  "content": [
+    {
+      "id": "sihc001",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "background_background": "classic",
+        "background_color": "#F3F8FB",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "30",
+          "bottom": "60",
+          "left": "30",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "sihc002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "South India Home Nursing Services",
+            "header_size": "h1",
+            "align": "left"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "sihc003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "India's trusted name for all-in-one nursing services. 24×7 nursing care at the comfort of your home."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "sihc004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Call Customer Care",
+            "link": {
+              "url": "tel:+917702220655",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg",
+            "align": "left"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "sihc005",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "20",
+          "bottom": "40",
+          "left": "20",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "sihc006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Our Services",
+            "header_size": "h2",
+            "align": "center"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "sihc007",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "ICU Nurses • Male/Female Caretakers • Newborn & Baby Care • Dialysis at Home • Physiotherapy • X-Ray at Home • ECG at Home • Speech Therapy • Respiratory Therapy • Oxygen Equipment Rental • Hospital Beds & Monitors • ICU Equipment • Ventilators • Diagnostic Services • Air Ambulance • Dental Care at Home."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    },
+    {
+      "id": "sihc008",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "20",
+          "bottom": "40",
+          "left": "20",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "sihc009",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Air Ambulance Pan India",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "sihc010",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Aircraft Ambulance | Helicopter Ambulance | Train Ambulance Services. Enquiries available 24×7, 365 days. Availability and clinical suitability must be confirmed for each transfer."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "sihc011",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Air Ambulance Enquiry",
+            "link": {
+              "url": "contact.html?service=air-ambulance",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "sihc012",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "40",
+          "right": "20",
+          "bottom": "40",
+          "left": "20",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "sihc013",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Contact Customer Care",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "sihc014",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "+91 7702-220655<br>+91 7780-144229<br><br>Head Office: Hyderabad, Telangana, India<br>Branches: New Delhi • Ludhiana, Punjab • Dubai, UAE"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - Starter Landing Page",
+  "type": "page",
+  "metadata": {
+    "template_type": "page",
+    "source": "ChatGPT starter template"
+  }
+}

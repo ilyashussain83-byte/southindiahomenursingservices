@@ -1,0 +1,264 @@
+{
+  "content": [
+    {
+      "id": "homehero",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "background_background": "classic",
+        "background_color": "#F3F8FB",
+        "padding": {
+          "unit": "px",
+          "top": "64",
+          "right": "28",
+          "bottom": "64",
+          "left": "28",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "h001",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Trusted healthcare. Right at your doorstep.",
+            "header_size": "h1"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "h002",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "South India Home Nursing Services<br>India's trusted name for all-in-one nursing services. 24×7 nursing care at the comfort of your home, with nursing, caregiving, rehabilitation, diagnostics and medical transport support."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "h003",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Request Care",
+            "link": {
+              "url": "contact",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        },
+        {
+          "id": "h004",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Explore Services",
+            "link": {
+              "url": "services",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "homeservices",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "h005",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Our Services",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "h006",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "ICU Nurses • Male/Female Caretakers • Newborn & Baby Care • Dialysis at Home • Physiotherapy • X-Ray at Home • ECG at Home • Speech Therapy • Respiratory Therapy • Oxygen Cylinders and Concentrators on Rent • Hospital Beds & Monitors • ICU Equipment • Ventilators • Diagnostic Services • Air Ambulance • Dentist/Dental Unit at Home."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "h007",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "View All Services",
+            "link": {
+              "url": "services",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "homeair",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "h008",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Air Ambulance Pan India",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "h009",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "Aircraft Ambulance | Helicopter Ambulance | Train Ambulance Services. Enquiries available 24×7, 365 days. Availability and clinical suitability must be confirmed for each transfer."
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        },
+        {
+          "id": "h010",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "text": "Air Ambulance Enquiry",
+            "link": {
+              "url": "air-ambulance",
+              "is_external": "",
+              "nofollow": ""
+            },
+            "size": "lg"
+          },
+          "elements": [],
+          "widgetType": "button"
+        }
+      ]
+    },
+    {
+      "id": "homecontact",
+      "elType": "container",
+      "isInner": false,
+      "isLocked": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "padding": {
+          "unit": "px",
+          "top": "36",
+          "right": "24",
+          "bottom": "36",
+          "left": "24",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "h011",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "title": "Contact Customer Care",
+            "header_size": "h2"
+          },
+          "elements": [],
+          "widgetType": "heading"
+        },
+        {
+          "id": "h012",
+          "elType": "widget",
+          "isInner": false,
+          "isLocked": false,
+          "settings": {
+            "editor": "+91 7702-220655<br>+91 7780-144229<br><br>Head Office: Hyderabad, Telangana, India<br>Branches: New Delhi • Ludhiana, Punjab • Dubai, UAE"
+          },
+          "elements": [],
+          "widgetType": "text-editor"
+        }
+      ]
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "South India Home Nursing Services - Home",
+  "type": "page",
+  "metadata": {
+    "template_type": "page"
+  }
+}
